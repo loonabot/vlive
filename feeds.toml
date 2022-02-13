@@ -24,6 +24,6 @@ url = "https://m.vlive.tv/search/videos?query=%EC%9D%B4%EB%8B%AC%EC%9D%98+%EC%86
 entrySelector = "div.vthumb_box.noimg"
 titleSelector = "div.vthumb_info p.tit2"
 linkSelector = "a.inner_link"
-contentSelector = "div.vthumb_info span.nam"
+contentSelector = "div.vthumb_info span.name"
 imageSelector = "div.vthumb_img img"
 waitUntil = "networkidle"
