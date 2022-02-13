@@ -1,0 +1,19 @@
+[starboard]
+title = "V LIVE ─ 이달의 소녀(LOONA) ─ Star Board"
+url = "https://vlive.tv/channel/E1F3A7/board/4386"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[data-click]"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "em[class^='writer']"
+waitUntil = "networkidle"
+
+[notice]
+title = "V LIVE ─ 이달의 소녀(LOONA) ─ Notice"
+url = "https://vlive.tv/channel/E1F3A7/board/950"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "em[class^='writer']"
+waitUntil = "networkidle"
