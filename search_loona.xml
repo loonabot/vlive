@@ -4,7 +4,7 @@
         <title>V LIVE ─ 검색 ─ 이달의 소녀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 23:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,29 +12,7 @@
             <link>https://m.vlive.tv/video/276988</link>
             <guid>https://m.vlive.tv/video/276988</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276988" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="진도리도리" data-ga-vseq="276988" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276988">
-							<img src="https://v-phinf.pstatic.net/20220213_112/1644743937923K5Qhn_JPEG/8024f856-8cad-11ec-a565-48df379ccacc_03.jpg?type=f274_154" alt="진도리도리" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">1:10:21</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">진도리도리</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">14,041</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">588,177</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220213_112/1644743937923K5Qhn_JPEG/8024f856-8cad-11ec-a565-48df379ccacc_03.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -42,29 +20,7 @@
             <link>https://m.vlive.tv/video/276825</link>
             <guid>https://m.vlive.tv/video/276825</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276825" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="ㅎ" data-ga-vseq="276825" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276825">
-							<img src="https://v-phinf.pstatic.net/20220211_41/1644505882063oNe5j_JPEG/50e6bbb4-8a83-11ec-b3f1-505dacfbaa5c_03.jpg?type=f274_154" alt="ㅎ" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">22:50</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">ㅎ</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">19,389</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">1,392,019</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_41/1644505882063oNe5j_JPEG/50e6bbb4-8a83-11ec-b3f1-505dacfbaa5c_03.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -72,29 +28,7 @@
             <link>https://m.vlive.tv/video/276823</link>
             <guid>https://m.vlive.tv/video/276823</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276823" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="나 오늘 생일이야.." data-ga-vseq="276823" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276823">
-							<img src="https://v-phinf.pstatic.net/20220210_267/1644504315640Fo3hy_JPEG/f4ddd0e0-8a7f-11ec-8fb9-48df379cc9e4_03.jpg?type=f274_154" alt="나 오늘 생일이야.." width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">0:45</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">나 오늘 생일이야..</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">9,412</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">64,711</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220210_267/1644504315640Fo3hy_JPEG/f4ddd0e0-8a7f-11ec-8fb9-48df379cc9e4_03.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -102,29 +36,7 @@
             <link>https://m.vlive.tv/video/276498</link>
             <guid>https://m.vlive.tv/video/276498</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276498" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="죄송해요..🥺" data-ga-vseq="276498" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276498">
-							<img src="https://v-phinf.pstatic.net/20220207_20/1644217994920GxU11_JPEG/83374477760784141895211e6-387b-4b57-8c58-3dcee6124c04.jpg?type=f274_154" alt="죄송해요..🥺" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">1:14:15</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">죄송해요..🥺</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">18,371</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">1,166,502</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_20/1644217994920GxU11_JPEG/83374477760784141895211e6-387b-4b57-8c58-3dcee6124c04.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,29 +44,7 @@
             <link>https://m.vlive.tv/video/276495</link>
             <guid>https://m.vlive.tv/video/276495</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276495" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="아" data-ga-vseq="276495" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276495">
-							<img src="https://v-phinf.pstatic.net/20220207_272/1644217289600r1ax4_JPEG/83373772447151347b976d481-d373-49c6-b4f6-c0858dff19de.jpg?type=f274_154" alt="아" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">4:30</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">아</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">9,256</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">178,871</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_272/1644217289600r1ax4_JPEG/83373772447151347b976d481-d373-49c6-b4f6-c0858dff19de.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -162,29 +52,7 @@
             <link>https://m.vlive.tv/video/276494</link>
             <guid>https://m.vlive.tv/video/276494</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276494" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="모찌모찌 오빛모찌지😎💕" data-ga-vseq="276494" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276494">
-							<img src="https://v-phinf.pstatic.net/20220207_247/1644217141660be4mh_JPEG/157092671645541455cf7991e7-a85d-4bf0-8f42-9cbdbc772a7f.jpg?type=f274_154" alt="모찌모찌 오빛모찌지😎💕" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">1:01</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">모찌모찌 오빛모찌지😎💕</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">8,694</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">76,733</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_247/1644217141660be4mh_JPEG/157092671645541455cf7991e7-a85d-4bf0-8f42-9cbdbc772a7f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -192,29 +60,7 @@
             <link>https://m.vlive.tv/video/276465</link>
             <guid>https://m.vlive.tv/video/276465</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276465" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="이브로 고고" data-ga-vseq="276465" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276465">
-							<img src="https://v-phinf.pstatic.net/20220206_148/1644150849744G7ooy_JPEG/156939385715440979f19d2fee-6b8a-4986-8791-ce1532bd3eb7.jpg?type=f274_154" alt="이브로 고고" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">1:13:45</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">이브로 고고</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">23,790</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">1,916,551</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_148/1644150849744G7ooy_JPEG/156939385715440979f19d2fee-6b8a-4986-8791-ce1532bd3eb7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,29 +68,7 @@
             <link>https://m.vlive.tv/video/276450</link>
             <guid>https://m.vlive.tv/video/276450</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276450" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="👅" data-ga-vseq="276450" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276450">
-							<img src="https://v-phinf.pstatic.net/20220206_112/1644137704298P6Kfi_JPEG/8329418714604155322d7a29e-c6b8-495d-80ef-380cbbf78eb4.jpg?type=f274_154" alt="👅" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">1:19:43</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">👅</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">34,863</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">3,935,000</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_112/1644137704298P6Kfi_JPEG/8329418714604155322d7a29e-c6b8-495d-80ef-380cbbf78eb4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -252,29 +76,7 @@
             <link>https://m.vlive.tv/video/276374</link>
             <guid>https://m.vlive.tv/video/276374</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276374" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="잠깐 소통 타임💛" data-ga-vseq="276374" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276374">
-							<img src="https://v-phinf.pstatic.net/20220204_293/16439658331906IN3c_JPEG/156754204106434570a6cadbf6-3bcb-4566-8bb0-2c3e9f75539b.jpg?type=f274_154" alt="잠깐 소통 타임💛" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">1:07:29</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">잠깐 소통 타임💛</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">15,260</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">2,234,700</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_293/16439658331906IN3c_JPEG/156754204106434570a6cadbf6-3bcb-4566-8bb0-2c3e9f75539b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -282,29 +84,7 @@
             <link>https://m.vlive.tv/video/276107</link>
             <guid>https://m.vlive.tv/video/276107</guid>
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/276107" class="inner_link" onclick="vlive.common.videoGa(this);" data-ga-vname="어머님아버님친척여러분들저는이달의소녀이브예요🤤💟" data-ga-vseq="276107" data-ga-vtype="VOD" data-ga-product="NONE" data-ga-cname="이달의 소녀(LOONA)" data-ga-cseq="468" data-ga-ctype="">
-					<div class="vthumb_card">
-						<div class="vthumb_img" data-seq="276107">
-							<img src="https://v-phinf.pstatic.net/20220131_228/1643631478316wAcjT_JPEG/1564198789509138457dbc221a-9721-4f7a-80e6-b2c3c11da3cf.jpg?type=f274_154" alt="어머님아버님친척여러분들저는이달의소녀이브예요🤤💟" width="137" height="77"><span class="play_time">
-									<span class="blind">재생시간</span>
-									<span class="txt">1:05:24</span>
-								</span>
-							<div class="vthumb_icon_frame">
-									</div>
-								</div>
-
-						<div class="vthumb_tit">
-							<div class="vthumb_info">
-								<p class="tit2">어머님아버님친척여러분들저는이달의소녀이브예요🤤💟</p>
-								<span class="name">이달의 소녀(LOONA)</span>
-								<div class="vlive_info">
-									<span class="icon_play"><span class="blind">재생수</span><span class="tx">18,608</span></span>
-										<span class="icon_like"><span class="blind">좋아요</span><span class="tx">3,895,563</span></span>
-									</div>
-							</div>
-						</div>
-					</div>
-				</a>]]></content:encoded>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220131_228/1643631478316wAcjT_JPEG/1564198789509138457dbc221a-9721-4f7a-80e6-b2c3c11da3cf.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
