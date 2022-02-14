@@ -4,17 +4,9 @@
         <title>V LIVE ─ 이달의 소녀(LOONA) ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 06:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 06:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해피발렌타인데이🍫❤️]]></title>
-            <link>https://vlive.tv/post/1-27919551</link>
-            <guid>https://vlive.tv/post/1-27919551</guid>
-            <pubDate>Mon, 14 Feb 2022 06:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277029/thumb?type=f640_362" length="0" type="image//live/277029/thumb"/>
-        </item>
         <item>
             <title><![CDATA[진도리도리]]></title>
             <link>https://vlive.tv/post/1-27907601</link>
@@ -37,6 +29,7 @@
             <guid>https://vlive.tv/post/0-27861496</guid>
             <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220210_267/1644504315640Fo3hy_JPEG/f4ddd0e0-8a7f-11ec-8fb9-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죄송해요..🥺]]></title>
@@ -148,6 +141,13 @@
             <link>https://vlive.tv/post/1-27540231</link>
             <guid>https://vlive.tv/post/1-27540231</guid>
             <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하슬이의 저녁 라디오📻]]></title>
+            <link>https://vlive.tv/post/1-27524898</link>
+            <guid>https://vlive.tv/post/1-27524898</guid>
+            <pubDate>Mon, 14 Feb 2022 06:11:53 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
     </channel>
