@@ -4,9 +4,17 @@
         <title>V LIVE ─ 검색 ─ 이달의 소녀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다들모해엥😚😘]]></title>
+            <link>https://m.vlive.tv/video/277417</link>
+            <guid>https://m.vlive.tv/video/277417</guid>
+            <pubDate>Fri, 18 Feb 2022 10:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_10/1645171516670ClR5q_JPEG/157959887606648576fb4d3442-6fe6-4258-855a-ad4947303319.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하슬 선배와 라떼 TALK☕️ 2]]></title>
             <link>https://m.vlive.tv/video/277331</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_247/1644217141660be4mh_JPEG/157092671645541455cf7991e7-a85d-4bf0-8f42-9cbdbc772a7f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이브로 고고]]></title>
-            <link>https://m.vlive.tv/video/276465</link>
-            <guid>https://m.vlive.tv/video/276465</guid>
-            <pubDate>Sun, 13 Feb 2022 23:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220206_148/1644150849744G7ooy_JPEG/156939385715440979f19d2fee-6b8a-4986-8791-ce1532bd3eb7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
