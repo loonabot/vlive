@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생존신고!👍 (V LIVE ─ 이달의 소녀(LOONA) ─ Star Board)]]></title>
+            <link>https://vlive.tv/post/0-28155243</link>
+            <guid>https://vlive.tv/post/0-28155243</guid>
+            <pubDate>Wed, 02 Mar 2022 06:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278196/thumb?type=f640_362" length="0" type="image//live/278196/thumb"/>
+        </item>
         <item>
             <title><![CDATA[진도리도리💙 (V LIVE ─ 이달의 소녀(LOONA) ─ Star Board)]]></title>
             <link>https://vlive.tv/post/1-28151065</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-27985725</guid>
             <pubDate>Fri, 18 Feb 2022 08:42:53 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_10/1645171516670ClR5q_JPEG/157959887606648576fb4d3442-6fe6-4258-855a-ad4947303319.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하슬 선배와 라떼 TALK☕️ 2 (V LIVE ─ 이달의 소녀(LOONA) ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[건빵솔 🤔☕️🤢 (V LIVE ─ 이달의 소녀(LOONA) ─ Star Board)]]></title>
             <link>https://vlive.tv/post/0-27673045</link>
             <guid>https://vlive.tv/post/0-27673045</guid>
-            <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🐰바니지니 토낑어바웃 #8 (다시!) (V LIVE ─ 이달의 소녀(LOONA) ─ Star Board)]]></title>
-            <link>https://vlive.tv/post/0-27646305</link>
-            <guid>https://vlive.tv/post/0-27646305</guid>
             <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
