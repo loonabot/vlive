@@ -4,9 +4,17 @@
         <title>V LIVE ─ 이달의 소녀(LOONA) ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 05:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 06:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[😴]]></title>
+            <link>https://vlive.tv/post/0-28212527</link>
+            <guid>https://vlive.tv/post/0-28212527</guid>
+            <pubDate>Sun, 06 Mar 2022 06:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278541/thumb?type=f640_362" length="0" type="image//live/278541/thumb"/>
+        </item>
         <item>
             <title><![CDATA[🦧]]></title>
             <link>https://vlive.tv/post/0-28201294</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-28184503</guid>
             <pubDate>Fri, 04 Mar 2022 10:42:40 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_137/1646392618212mQjuO_JPEG/208945fc-9bac-11ec-a4b8-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🍒💜]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[이브로 고고]]></title>
             <link>https://vlive.tv/post/1-27796071</link>
             <guid>https://vlive.tv/post/1-27796071</guid>
-            <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👅]]></title>
-            <link>https://vlive.tv/post/1-27792967</link>
-            <guid>https://vlive.tv/post/1-27792967</guid>
             <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
