@@ -4,9 +4,17 @@
         <title>V LIVE ─ 이달의 소녀(LOONA) ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠깐 들렀엉🙈]]></title>
+            <link>https://vlive.tv/post/0-28233600</link>
+            <guid>https://vlive.tv/post/0-28233600</guid>
+            <pubDate>Mon, 07 Mar 2022 09:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_221/1646645556484OKusB_JPEG/15952113847269155555079a2c-73f4-4e02-8c90-0a4c01516980.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[😴]]></title>
             <link>https://vlive.tv/post/0-28212527</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-28207501</guid>
             <pubDate>Sat, 05 Mar 2022 11:39:33 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220305_246/1646477985846kBaah_JPEG/159353588796912963abe00e53-913a-429b-b7fc-b0288f55e9f4.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🦋]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[모찌모찌 오빛모찌지😎💕]]></title>
             <link>https://vlive.tv/post/0-27801253</link>
             <guid>https://vlive.tv/post/0-27801253</guid>
-            <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이브로 고고]]></title>
-            <link>https://vlive.tv/post/1-27796071</link>
-            <guid>https://vlive.tv/post/1-27796071</guid>
             <pubDate>Sun, 13 Feb 2022 22:44:50 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
