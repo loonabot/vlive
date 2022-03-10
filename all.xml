@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 10:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 11:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[밥 먹는다 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
+            <link>https://m.vlive.tv/video/278811</link>
+            <guid>https://m.vlive.tv/video/278811</guid>
+            <pubDate>Thu, 10 Mar 2022 11:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_130/164690076033426U3U_JPEG/15968921632118581432898946-67f2-48ce-8527-ad0eae91299a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이팅 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
             <link>https://m.vlive.tv/video/278734</link>
             <guid>https://m.vlive.tv/video/278734</guid>
@@ -364,14 +372,6 @@
             <pubDate>Fri, 04 Mar 2022 11:39:02 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_137/1646392618212mQjuO_JPEG/208945fc-9bac-11ec-a4b8-d4f5ef590144_03.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🍒💜 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
-            <link>https://m.vlive.tv/video/278314</link>
-            <guid>https://m.vlive.tv/video/278314</guid>
-            <pubDate>Thu, 03 Mar 2022 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_164/1646295074424aR236_JPEG/fa6766e1-9ac8-11ec-a7bf-48df37ae3dc4_03.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
