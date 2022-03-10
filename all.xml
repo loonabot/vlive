@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 11:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 13:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오빛아~ 저녁 뭐먹어요~? (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
+            <link>https://m.vlive.tv/video/278826</link>
+            <guid>https://m.vlive.tv/video/278826</guid>
+            <pubDate>Thu, 10 Mar 2022 13:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_23/1646906292092egpNC_JPEG/15978189208047273820f92600-feb2-4141-9bc8-442770e3d1aa.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[밥 먹는다 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
             <link>https://m.vlive.tv/video/278811</link>
             <guid>https://m.vlive.tv/video/278811</guid>
@@ -364,14 +372,6 @@
             <pubDate>Sun, 06 Mar 2022 02:53:22 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220305_246/1646477985846kBaah_JPEG/159353588796912963abe00e53-913a-429b-b7fc-b0288f55e9f4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🦋 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
-            <link>https://m.vlive.tv/video/278434</link>
-            <guid>https://m.vlive.tv/video/278434</guid>
-            <pubDate>Fri, 04 Mar 2022 11:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_137/1646392618212mQjuO_JPEG/208945fc-9bac-11ec-a4b8-d4f5ef590144_03.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
