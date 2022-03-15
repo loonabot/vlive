@@ -4,17 +4,9 @@
         <title>V LIVE ─ 이달의 소녀(LOONA) ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안녕💚]]></title>
-            <link>https://vlive.tv/post/0-28360627</link>
-            <guid>https://vlive.tv/post/0-28360627</guid>
-            <pubDate>Tue, 15 Mar 2022 08:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220315_278/16473330218058Dtqu_JPEG/693854602843570301764b8ba-81d1-4082-a1b5-2ca74c60374b.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이제안츄워🤍😶‍🌫️]]></title>
             <link>https://vlive.tv/post/0-28359069</link>
@@ -37,6 +29,7 @@
             <guid>https://vlive.tv/post/0-28289237</guid>
             <pubDate>Thu, 10 Mar 2022 10:43:03 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_23/1646906292092egpNC_JPEG/15978189208047273820f92600-feb2-4141-9bc8-442770e3d1aa.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밥 먹는다]]></title>
@@ -148,6 +141,13 @@
             <link>https://vlive.tv/post/1-27985725</link>
             <guid>https://vlive.tv/post/1-27985725</guid>
             <pubDate>Fri, 18 Feb 2022 08:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하슬 선배와 라떼 TALK☕️ 2]]></title>
+            <link>https://vlive.tv/post/1-27961443</link>
+            <guid>https://vlive.tv/post/1-27961443</guid>
+            <pubDate>Tue, 15 Mar 2022 09:42:23 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
     </channel>
