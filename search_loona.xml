@@ -4,9 +4,25 @@
         <title>V LIVE ─ 검색 ─ 이달의 소녀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 11:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 13:00:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쩨리다아🍒💜😍]]></title>
+            <link>https://m.vlive.tv/video/279310</link>
+            <guid>https://m.vlive.tv/video/279310</guid>
+            <pubDate>Wed, 16 Mar 2022 13:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220316_66/1647430271420Ajr6J_JPEG/464056379764593345342cdae-b488-446a-94b1-1f83a5f553e2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🌷🌺💐]]></title>
+            <link>https://m.vlive.tv/video/279296</link>
+            <guid>https://m.vlive.tv/video/279296</guid>
+            <pubDate>Wed, 16 Mar 2022 13:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220316_78/1647429353148PMvnw_JPEG/483bb32a-a519-11ec-8d48-d4f5ef58ad5e_03.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕💚]]></title>
             <link>https://m.vlive.tv/video/279200</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 08 Mar 2022 11:39:02 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220308_226/1646735626162jwBla_JPEG/18e42555-9eca-11ec-92eb-48df379cca40_03.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진도리도리💙]]></title>
-            <link>https://m.vlive.tv/video/278694</link>
-            <guid>https://m.vlive.tv/video/278694</guid>
-            <pubDate>Tue, 08 Mar 2022 09:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_169/1646730339932Xr6wR_JPEG/e9ee835a-9ebe-11ec-92eb-48df379cca40_03.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 들렀엉🙈]]></title>
-            <link>https://m.vlive.tv/video/278619</link>
-            <guid>https://m.vlive.tv/video/278619</guid>
-            <pubDate>Mon, 07 Mar 2022 10:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220307_221/1646645556484OKusB_JPEG/15952113847269155555079a2c-73f4-4e02-8c90-0a4c01516980.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
