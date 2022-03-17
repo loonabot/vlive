@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 10:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 11:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[💋 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
+            <link>https://m.vlive.tv/video/279394</link>
+            <guid>https://m.vlive.tv/video/279394</guid>
+            <pubDate>Thu, 17 Mar 2022 11:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220317_191/1647509640089QLKQ5_JPEG/1603851710335653559b9907c0-c96a-4ddc-a9c8-744ffbf095c6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쩨리다아🍒💜😍 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
             <link>https://m.vlive.tv/video/279310</link>
             <guid>https://m.vlive.tv/video/279310</guid>
@@ -364,14 +372,6 @@
             <pubDate>Wed, 09 Mar 2022 22:41:37 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220309_145/1646813572663BbUIN_JPEG/159689175630809391d121965a-a0a7-4fbe-91da-7a3f463eb0dc.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진도리도리💙 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
-            <link>https://m.vlive.tv/video/278695</link>
-            <guid>https://m.vlive.tv/video/278695</guid>
-            <pubDate>Tue, 08 Mar 2022 11:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_226/1646735626162jwBla_JPEG/18e42555-9eca-11ec-92eb-48df379cca40_03.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
