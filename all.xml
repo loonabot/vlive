@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:39:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[💋 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
+            <link>https://m.vlive.tv/video/279731</link>
+            <guid>https://m.vlive.tv/video/279731</guid>
+            <pubDate>Tue, 22 Mar 2022 07:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_291/1647928894286aqrfJ_JPEG/1607172652279395773982a87b-88a6-4da1-8034-61a3a723fd12.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘은 좀 춥네🌧 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
             <link>https://m.vlive.tv/video/279483</link>
             <guid>https://m.vlive.tv/video/279483</guid>
@@ -364,14 +372,6 @@
             <pubDate>Thu, 10 Mar 2022 11:39:00 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_130/164690076033426U3U_JPEG/15968921632118581432898946-67f2-48ce-8527-ad0eae91299a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이팅 (V LIVE ─ 검색 ─ 이달의 소녀)]]></title>
-            <link>https://m.vlive.tv/video/278734</link>
-            <guid>https://m.vlive.tv/video/278734</guid>
-            <pubDate>Wed, 09 Mar 2022 22:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220309_77/1646813779738QvTm0_JPEG/159602090706298794eda07b3b-1c99-41be-9fed-0b38b30747fc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
