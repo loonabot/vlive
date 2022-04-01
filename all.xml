@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://vlive.tv/post/0-28600668</guid>
             <pubDate>Fri, 01 Apr 2022 09:42:12 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280520/thumb?type=f640_362" length="0" type="image//live/280520/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220401_115/1648808544350AqG2A_JPEG/88e848d9-b1a4-11ec-8c89-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[💛💛💛💛💛💛 (V LIVE ─ 이달의 소녀(LOONA) ─ Star Board)]]></title>
